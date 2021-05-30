@@ -1,3 +1,12 @@
+This Project is to develop and deploy a ChatRoom application using HTML, CSS, JavaScript and React.
+Here, We create a chat room using chatengine.io, create accounts for each user, login to these users 
+and then send and receive messages, images and documents with the users present in that group environment.
+This application ensures secrecy as it is impossible to gain access to a group chat without leaerning the 
+GroupID which is a 32 or 64 bit hexadecimal key.
+Also, the Group admin is the primary controller of the group and can add members or remove members in a group.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
